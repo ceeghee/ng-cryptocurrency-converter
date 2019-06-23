@@ -5,14 +5,13 @@
 ## Installation
 
 ```sh
-$ npm install --save ng-pipe
+$ npm install 
 ```
 
 ## Usage
 
 ```js
-var ngPipe = require('ng-pipe');
-ngPipe();
+ng serve 
 ```
 
 ## License
